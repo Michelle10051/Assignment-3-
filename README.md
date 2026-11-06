@@ -6,7 +6,7 @@
 |`U-net_Performance.ipynb`| Python Google Colab notebook that trains the U-net based on the generated data and evaluates the performance |
 
 1. Description
-The objective of this project was to develop and evaluate the U-net for binary segmentation of synthetic grayscale images with different geometrical shapes. The geometrical shapes are placed randomly placed, rotated, and differ in size. The model is trained on the generated dataset and performance is evaluated using a metrics TP, TN, FP, FN.
+The objective of this project was to develop and evaluate the U-net for binary segmentation of synthetic grayscale images with different geometrical shapes. The geometrical shapes are placed randomly, rotated, and differ in size. The model is trained on the generated dataset and performance is evaluated using a metrics TP, TN, FP, FN.
 
 2. Requirements & How to Run 
 
